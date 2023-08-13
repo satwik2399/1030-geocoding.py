@@ -1,2 +1,5 @@
 # 1030-geocoding.py
-This project is for sfhs code hack. 
+#Geocoding Project made in python
+#Geocoding is the process of converting addresses (like a street address) into geographic coordinates 
+(like latitude and longitude)
+#Taken API Key from https://locationiq.com/
